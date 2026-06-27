@@ -1,0 +1,5 @@
+<acute angle=18°>
+<right angle=90°>
+print="obtuse angle"
+"obtuse angle"=180
+finally obtuseangleisneitherleftnorrightbutanangleonastraightline
